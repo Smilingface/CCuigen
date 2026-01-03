@@ -49,3 +49,9 @@ next-env.d.ts
 # database
 /prisma/dev.db
 /prisma/dev.db-journal
+
+# playwright-mcp screenshot
+.playwright-mcp
+
+# claude code cache
+.claude
